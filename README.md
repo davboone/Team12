@@ -39,9 +39,9 @@ Hello Guys -- Jesus
 
 <!DOCTYPE html>
 <html>
-  
+
    <body>
-      <h1>whats up</h1>
-      <p style="color:blue">by jesus</p>
+      <h1>Jesus was here </h1>
+      <p style="color:blue">team 12 is the best</p>
    </body>
 </html>
