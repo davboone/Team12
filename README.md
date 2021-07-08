@@ -47,12 +47,12 @@ Itty Bitty Piggy Nikci Minaj SUPERIORITY
 
 
 
-<!DOCTYPE html>
+
 <html>
 
    <body>
       <h1>Jesus was here </h1>
-      <p style="color:blue">team 12 is the best</p>
+      <p style="color:orange">team 12 is the best</p>
    </body>
 </html>
 
