@@ -18,5 +18,5 @@ This is steph we drinking chai
 
 Edit by Jesus, Nashville Hot Chicken 
 
-
+Steph really likes chicken pad thai
 
