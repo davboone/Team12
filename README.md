@@ -1,6 +1,9 @@
 # Team12
 
 Branching walkthrough
+Jeremiah Anim --- Favorite Food: Jollof Rice (Ghana Version)
+
+Ya boy Jeremiah comin through with some crackersss
 
 safia im drinking french vanilla
 
@@ -19,6 +22,9 @@ This is steph we drinking chai
 Edit by Jesus, Nashville Hot Chicken 
 
 
+Steph really likes chicken pad thai
+
+
 Hello Guys -- Jesus 
 
 
@@ -34,7 +40,11 @@ Hello Guys -- Jesus
 
 
 
+
+Itty Bitty Piggy Nikci Minaj SUPERIORITY 
+
 <p> can you see this </p>
+
 
 
 <!DOCTYPE html>
@@ -45,3 +55,5 @@ Hello Guys -- Jesus
       <p style="color:blue">by jesus</p>
    </body>
 </html>
+
+
