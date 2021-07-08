@@ -47,7 +47,7 @@ Itty Bitty Piggy Nikci Minaj SUPERIORITY
 
 
 
-
+<!DOCTYPE html>
 <html>
 
    <body>
