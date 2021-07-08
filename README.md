@@ -1,6 +1,9 @@
 # Team12
 
 Branching walkthrough
+Jeremiah Anim --- Favorite Food: Jollof Rice (Ghana Version)
+
+Ya boy Jeremiah comin through with some crackersss
 
 safia im drinking french vanilla
 
